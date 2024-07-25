@@ -2,7 +2,9 @@
 
 Infinity Carousel is a lightweight and responsive carousel slider implemented in JavaScript, designed to provide infinite sliding functionality.
 
-![Infinity Carousel](https://example.com/path/to/your/image.jpg)
+![Infinity Carousel](https://github.com/SharookMohamed/Infinity-Carousel/blob/main/carouse-desktop.png?raw=true)
+
+![Infinity Carousel](https://github.com/SharookMohamed/Infinity-Carousel/blob/main/carouse-mobile.png?raw=true)
 
 ## Features
 
